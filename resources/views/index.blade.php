@@ -286,7 +286,7 @@
             <div class="down-content">
                 <span class="category">ADVENTURE </span>
                 <h4>SUBNAUTICA </h4>
-                <a href="">temporarily not available</a>
+                <a href="">Offline</a>
             </div>
           </div>
         </div>
