@@ -233,12 +233,12 @@
         <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="item">
             <div class="thumb">
-              <a href="gta"><img src="/images/gta.jpg" alt=""></a>
+              <a href=""><img src="/images/gta.jpg" alt=""></a>
             </div>
             <div class="down-content">
                 <span class="category">OPEN WORLD</span>
                 <h4>GTA VI</h4>
-                <a href="gta">EXPLORE</a>
+                <a href="">Upcoming</a>
             </div>
           </div>
         </div>
@@ -281,12 +281,12 @@
         <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="item">
             <div class="thumb">
-              <a href="sn"><img src="/images/sn.jpg" alt=""></a>
+              <a href=""><img src="/images/sn.jpg" alt=""></a>
             </div>
             <div class="down-content">
                 <span class="category">ADVENTURE </span>
                 <h4>SUBNAUTICA </h4>
-                <a href="sn">Explore</a>
+                <a href="">temporarily not available</a>
             </div>
           </div>
         </div>
