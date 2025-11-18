@@ -22,4 +22,4 @@ ENV SKIP_COMPOSER 1
 # 2. Install Composer dependencies during the BUILD phase instead
 RUN composer install --no-dev --no-interaction --prefer-dist --optimize-autoloader
 
-CMD ["/start.sh"]
+CMD ["/bin/sh", "-c", "php artisan migrate --force && /start.sh"]
